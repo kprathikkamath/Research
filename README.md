@@ -3,3 +3,4 @@
 ![image](https://github.com/user-attachments/assets/238fd53d-9e10-42ba-b05f-1cf3749ceba7)
 
 ![image](https://github.com/user-attachments/assets/1723fbc1-6d1d-4b47-970f-fd3a3cbbed7f)
+https://k7mem.com/Ind_Coil_Ind_Calc.html ---- Calculator for air coil inductance ----- https://www.66pacific.com/calculators/coil-inductance-calculator.aspx  
