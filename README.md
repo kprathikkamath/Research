@@ -1,3 +1,5 @@
 
 https://k7mem.com/Ind_Coil_Ind_Calc.html ---- Calculator for air coil inductance ----- https://www.66pacific.com/calculators/coil-inductance-calculator.aspx  
 ![image](https://github.com/user-attachments/assets/63a1d7ec-eff7-4b89-b46e-622d21001727)
+![image](https://github.com/user-attachments/assets/2a4981b2-3c84-44c9-ad46-5042d776b5bd)
+Coupling 3 inductors for non contact feedback to base drive of transistor
