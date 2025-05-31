@@ -1,4 +1,5 @@
-
+For PLASMA FLAME GENERATOR USE THIS PAGE : https://www.wardpowerelectronics.com/hfsstc AND https://www.nightlase.com.au/?pg=hfsstc . Genuinely it works!!!
+![Capture](https://github.com/user-attachments/assets/9db539df-26b4-4ff8-8eee-ae5268278c05)
 https://k7mem.com/Ind_Coil_Ind_Calc.html ---- Calculator for air coil inductance ----- https://www.66pacific.com/calculators/coil-inductance-calculator.aspx  
 ![image](https://github.com/user-attachments/assets/63a1d7ec-eff7-4b89-b46e-622d21001727)
 ![image](https://github.com/user-attachments/assets/2a4981b2-3c84-44c9-ad46-5042d776b5bd)
