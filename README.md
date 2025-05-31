@@ -7,3 +7,5 @@ Coupling 3 inductors for non contact feedback to base drive of transistor
 ![image](https://github.com/user-attachments/assets/45fcd4b0-a8d7-4975-9457-e0134742acff)
 ![image](https://github.com/user-attachments/assets/8a7a9636-4f1c-4b00-b9e1-2fed6da8d51c)
 Mosfet for slayer exciter needs high values of gate charge values while modelling on LtSpice. It tends to dampen out the opscillations.
+![image](https://github.com/user-attachments/assets/e24c1a24-2329-4983-8c0a-f20c592ef7eb)
+This circuit is from HFDRSSTC with IRF locally available mosfets. It was found here : https://www.wardpowerelectronics.com/hfsstc 
