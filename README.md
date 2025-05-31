@@ -5,3 +5,5 @@ https://k7mem.com/Ind_Coil_Ind_Calc.html ---- Calculator for air coil inductance
 Coupling 3 inductors for non contact feedback to base drive of transistor
 ![image](https://github.com/user-attachments/assets/c8ea094f-2930-4351-96bc-ac1bf1ffdb48)
 ![image](https://github.com/user-attachments/assets/45fcd4b0-a8d7-4975-9457-e0134742acff)
+![image](https://github.com/user-attachments/assets/8a7a9636-4f1c-4b00-b9e1-2fed6da8d51c)
+Mosfet for slayer exciter needs high values of gate charge values while modelling on LtSpice. It tends to dampen out the opscillations.
